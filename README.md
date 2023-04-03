@@ -16,5 +16,5 @@ List of my side projects.
 ### Matlab
 + [Facial recognition using linear discriminant analysis - Matlab](https://github.com/sigarS/Linear-Discriminant-Regression-Classification-for-Face-Recognition)
 
-### SQL#
+### SQL
 + [Data Ware housing- SSMS, Visual studio, Data cubes](https://github.com/sigarS/Data-Warehouse)
